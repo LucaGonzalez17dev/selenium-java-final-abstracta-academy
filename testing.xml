@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="FinalSeleniumJavaTestsSuite">
+    <test name="LoginTests">
+        <classes>
+            <class name="com.example.cursoseleniumjavaabstracta.scripts.TestsFinalAbstracta"/>
+        </classes>
+    </test>
+</suite>
+
